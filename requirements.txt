@@ -98,7 +98,7 @@ pyperclip
 pyreadline3
 pyrsistent
 python-dateutil
-
+python-dotenv
 python-multipart
 pytz
 PyYAML
