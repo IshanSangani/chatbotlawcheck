@@ -8,7 +8,7 @@ FROM python:3.11-slim
 COPY requirements.txt .
 
 # Install dependencies
-#pip install -r requirements.txt
+pip install -r requirements.txt
 
 
 # Copy the rest of the application code into the container
