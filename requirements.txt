@@ -114,7 +114,7 @@ seaborn
 Send2Trash
 simplejson
 six
-sklearn
+
 sniffio
 soupsieve
 sqlparse
